@@ -3,7 +3,7 @@
 tcping by connect in Python
 
 Author:   xinlin-z
-Github:   https://github.com/xinlin-z/pingtools
+Github:   https://github.com/xinlin-z/tcping.py
 Blog:     https://cs.pynote.net
 License:  MIT
 """

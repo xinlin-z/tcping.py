@@ -1,6 +1,6 @@
 # tcping.py
 
-```shell
+```shell-session
 $ python tcping.py -h
 usage: tcping.py [-h] [-V] [-n N] [-i I] [-t T] host port
 
